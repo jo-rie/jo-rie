@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Jonas Rieger, doctoral student at [Karlsruhe Institute of Technology](https://www.kit.edu/english/). 
+I'm working on dependence modelling, forecast (combination) methods and high dimensional statistics. 
+
+Please feel free to contact me via [jonas.rieger@kit.edu](mailto:jonas.rieger@kit.edu) or check out my [group's page](https://as.ior.kit.edu/english/team.php).
+
 <!--
 **jo-rie/jo-rie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
